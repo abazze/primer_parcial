@@ -1,0 +1,6 @@
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\parciales\Primer_Parcial\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\parciales\Primer_Parcial\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.pdb
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\parciales\Primer_Parcial\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.csprojAssemblyReference.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\parciales\Primer_Parcial\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.csproj.CoreCompileInputs.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\parciales\Primer_Parcial\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\parciales\Primer_Parcial\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.pdb
